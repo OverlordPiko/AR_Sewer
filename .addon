@@ -12,6 +12,8 @@
   "RootNamespace": null,
   "Metadata": {
     "ProjectTemplate": null,
-    "GameSupport": []
+    "GameSupport": [
+      "TTT"
+    ]
   }
 }
